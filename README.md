@@ -1,4 +1,4 @@
-# Hi, I'm Manish 👋
+# Hi, I'm Manish Kumar Kumwat 👋
 
 ## 🚀 Frontend Developer
 
