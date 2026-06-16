@@ -4,18 +4,26 @@
 
 I build modern web applications using React.js and JavaScript.
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Git & GitHub
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-blue)
 
-## Currently Learning
+### Tools
+![Git](https://img.shields.io/badge/Git-red)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![VS Code](https://img.shields.io/badge/VSCode-blue)
+
+## 📚 Currently Learning
 
 - DSA in C++
-- JAVA
+- Java
+- Backend Development
+- Node.js
+- System Design
 
 
 ## Projects
@@ -24,7 +32,8 @@ I build modern web applications using React.js and JavaScript.
 ⚛️ css-hackathon-project
 🤖 AI Projects
 
-## Contact
+## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/manish-kumawat-901a542b9/
 X: https://x.com/Manishkumawatt
+Email: manishkumawat6227@gmail.com
