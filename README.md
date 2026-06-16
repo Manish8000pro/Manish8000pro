@@ -46,4 +46,3 @@ Email: manishkumawat6227@gmail.com
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish8000pro&layout=compact&theme=tokyonight)
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish8000pro&show_icons=true&theme=tokyonight)
