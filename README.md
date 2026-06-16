@@ -46,4 +46,4 @@ Email: manishkumawat6227@gmail.com
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish8000pro&layout=compact&theme=tokyonight)
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish8000pro&theme=tokyonight)
