@@ -27,3 +27,4 @@ I build modern web applications using React.js and JavaScript.
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/manish-kumawat-901a542b9/
+X: https://x.com/Manishkumawatt
