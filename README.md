@@ -44,5 +44,3 @@ Email: manishkumawat6227@gmail.com
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish8000pro&layout=compact&theme=tokyonight)
-## 📊 GitHub Stats
-
