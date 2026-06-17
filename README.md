@@ -24,7 +24,10 @@ I build modern web applications using React.js and JavaScript.
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish8000pro&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish8000pro&theme=tokyonight)  ## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish8000pro&layout=compact&theme=tokyonight)
+
 
 ## 📚 Currently Learning
 
@@ -46,7 +49,4 @@ I build modern web applications using React.js and JavaScript.
 LinkedIn: https://www.linkedin.com/in/manish-kumawat-901a542b9/
 X: https://x.com/Manishkumawatt
 Email: manishkumawat6227@gmail.com
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish8000pro&layout=compact&theme=tokyonight)
 
