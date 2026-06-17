@@ -25,7 +25,7 @@ I build modern web applications using React.js and JavaScript.
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Manish8000pro&theme=tokyonight&hide_border=true&v=1)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=Manish8000pro&theme=tokyonight&hide_border=true)
 
 ## 📚 Currently Learning
 
