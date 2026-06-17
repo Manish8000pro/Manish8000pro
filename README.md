@@ -14,6 +14,7 @@ I build modern web applications using React.js and JavaScript.
 ### Frontend
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
 
 ### Tools
