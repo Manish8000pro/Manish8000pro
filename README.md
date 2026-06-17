@@ -36,11 +36,16 @@ I build modern web applications using React.js and JavaScript.
 - System Design
 
 
-## Projects
+## 🚀 Featured Projects
 
-🎵 Spotify Clone  
-⚛️ css-hackathon-project
-🤖 AI Projects
+### 🎵 Spotify Clone
+Music player built with JavaScript.
+
+### ⚛️ React Projects
+Modern UI projects using React.
+
+### 🤖 AI Projects
+AI experiments and learning projects.
 
 ## 📫 Connect With Me
 
