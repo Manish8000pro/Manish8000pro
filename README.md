@@ -22,11 +22,10 @@ I build modern web applications using React.js and JavaScript.
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak           ## 💻 Most Used Languages
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish8000pro&theme=tokyonight)  ## 💻 Most Used Languages
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish8000pro&theme=tokyonight)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish8000pro&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish8000pro&layout=compact&theme=tokyonight)
 
 
 ## 📚 Currently Learning
