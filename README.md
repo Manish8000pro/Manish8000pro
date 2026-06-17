@@ -25,8 +25,9 @@ I build modern web applications using React.js and JavaScript.
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Manish8000pro&theme=tokyonight&cache_seconds=86400)        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish8000pro&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Manish8000pro&theme=tokyonight&cache_seconds=86400)        ## 💻 Most Used Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish8000pro&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 
 ## 📚 Currently Learning
