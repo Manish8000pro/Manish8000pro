@@ -16,8 +16,6 @@ I build modern web applications using React.js and JavaScript.
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
-## 🤖 Generative AI
-
 ![AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Tools
