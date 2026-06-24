@@ -7,11 +7,11 @@ I build modern web applications using React.js and JavaScript.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/manish-kumawat-901a542b9/)">
+<a href="[(https://www.linkedin.com/in/manish-kumawat-901a542b9/)]">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your_email@gmail.com">
+<a href="manishkumawat6227@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
