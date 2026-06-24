@@ -14,8 +14,8 @@ I build modern web applications using React.js and JavaScript.
   <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" width="48"/>
 </a>
 
-<a href="mailto:manishkumawat6227@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<a href="manishkumawat6227@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" />
 </a>
 
 ## 💻 Languages & Tech Stack
