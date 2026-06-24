@@ -6,17 +6,20 @@ I build modern web applications using React.js and JavaScript.
 
 ## 🌐 Connect With Me
 
+<p align="left">
 <a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/manish-kumawat-901a542b9/)">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://x.com/Manishkumawatt">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" width="48"/>
+<a href="mailto:your_email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="manishkumawat6227@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" />
+<a href="(https://x.com/Manishkumawatt)">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
+
+</p>
 
 ## 💻 Languages & Tech Stack
 
