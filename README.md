@@ -45,8 +45,8 @@ I build modern web applications using React.js and JavaScript.
 ### 🎵 Spotify Clone
 Music player built with JavaScript.
 
-### ⚛️ React Projects
-Modern UI projects using React.
+### Modern Course landing pages and Modern pages
+Modern UI projects using HTML, CSS, JavaScript.
 
 ### 🤖 AI Projects
 AI experiments and learning projects.
