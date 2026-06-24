@@ -4,6 +4,20 @@
 
 I build modern web applications using React.js and JavaScript.
 
+## 🌐 Connect With Me
+
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/manish-kumawat-901a542b9/)">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://x.com/Manishkumawatt">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" width="48"/>
+</a>
+
+<a href="https://github.com/Manish8000pro">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 ## 💻 Languages & Tech Stack
 
 ### Languages
