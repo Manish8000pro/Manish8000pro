@@ -4,21 +4,20 @@
 
 I build modern web applications using React.js and JavaScript.
 
-## 🌐 Connect With Me
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="[(https://www.linkedin.com/in/manish-kumawat-901a542b9/)]">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/manish-kumawat-901a542b9/" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" width="40" />
 </a>
 
 <a href="manishkumawat6227@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" height="30" width="40" />
 </a>
 
-<a href="(https://x.com/Manishkumawatt)">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://x.com/Manishkumawatt">
+<img align="center" src="https://cdn.simpleicons.org/x/ffffff" height="30" width="40" />
 </a>
-
 </p>
 
 ## 💻 Languages & Tech Stack
