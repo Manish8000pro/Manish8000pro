@@ -7,8 +7,8 @@ I build modern web applications using React.js and JavaScript.
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/manish-kumawat-901a542b9/" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" width="40" />
+<a href="https://www.linkedin.com/in/manish-kumawat-901a542b9/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="manishkumawat6227@gmail.com">
