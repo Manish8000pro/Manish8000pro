@@ -4,19 +4,23 @@
 
 I build modern web applications using React.js and JavaScript.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/manish-kumawat-901a542b9/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
 </a>
 
-<a href="manishkumawat6227@gmail.com">
-<img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" height="30" width="40" />
+<a href="mailto:manishkumawat6227@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48" />
 </a>
 
 <a href="https://x.com/Manishkumawatt">
-<img align="center" src="https://cdn.simpleicons.org/x/ffffff" height="30" width="40" />
+<img src="https://cdn.simpleicons.org/x/white" width="48" />
+</a>
+
+<a href="https://github.com/Manish8000pro">
+<img src="https://skillicons.dev/icons?i=github" width="48" />
 </a>
 </p>
 
