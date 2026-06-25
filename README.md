@@ -6,20 +6,18 @@ I build modern web applications using React.js and JavaScript.
 
 <h3 align="center">🌐 <u>Connect with me</h3></u>
 
-<h2>🌐 Connect With Me</h2>
-
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/manish-kumawat-901a542b9/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="manishkumawat6227@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+  <a href="https://x.com/Manishkumawatt" target="_blank">
     <img src="https://cdn.simpleicons.org/x/white" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
