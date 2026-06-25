@@ -4,9 +4,9 @@
 
 I build modern web applications using React.js and JavaScript.
 
-<h3 align="left">🌐 Connect with me</h3>
+<h3 align="center">🌐 Connect with me</h3>
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/manish-kumawat-901a542b9/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
 </a>
