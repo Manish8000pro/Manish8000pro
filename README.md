@@ -12,7 +12,7 @@ I build modern web applications using React.js and JavaScript.
 </a>
 
 <a href="mailto:manishkumawat6227@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="60" />
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="60"/>
 </a>
 
 <a href="https://x.com/Manishkumawatt">
