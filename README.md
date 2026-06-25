@@ -6,23 +6,29 @@ I build modern web applications using React.js and JavaScript.
 
 <h3 align="center">🌐 <u>Connect with me</h3></u>
 
+<h2>🌐 Connect With Me</h2>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/manish-kumawat-901a542b9/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55" margin="3" />
-</a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:manishkumawat6227@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="60"/>
-</a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://x.com/Manishkumawatt">
-<img src="https://cdn.simpleicons.org/x/white" width="50" />
-</a>
+  <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/white" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/Manish8000pro">
-<img src="https://skillicons.dev/icons?i=github" width="60" />
-</a>
+  <a href="https://github.com/Manish8000pro" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="60" />
+  </a>
 </p>
+
 
 ## 💻 Languages & Tech Stack
 
