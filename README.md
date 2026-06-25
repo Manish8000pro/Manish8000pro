@@ -4,7 +4,7 @@
 
 I build modern web applications using React.js and JavaScript.
 
-<h3 align="center">🌐 Connect with me</h3>
+<h3 align="center">🌐 <u>Connect with me</h3></u>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/manish-kumawat-901a542b9/">
