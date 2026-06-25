@@ -75,9 +75,3 @@ Modern UI projects using HTML, CSS, JavaScript.
 ### 🤖 AI Projects
 AI experiments and learning projects.
 
-## 📫 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/manish-kumawat-901a542b9/
-X: https://x.com/Manishkumawatt
-Email: manishkumawat6227@gmail.com
-
