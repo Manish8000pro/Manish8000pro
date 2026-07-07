@@ -54,7 +54,11 @@ I build modern web applications using React.js and JavaScript.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Manish8000pro)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Manish8000pro&theme=highcontrast)
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Manish8000pro&theme=github-dark-blue" alt="GitHub Streak" />
+</p>
 
 ## 📚 Currently Learning
 
