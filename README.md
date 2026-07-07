@@ -54,7 +54,8 @@ I build modern web applications using React.js and JavaScript.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Manish8000pro)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Manish8000pro&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=Manish8000pro&theme=one-dark-pro)
+
 ## 📚 Currently Learning
 
 - DSA in C++
