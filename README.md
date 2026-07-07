@@ -51,13 +51,8 @@ I build modern web applications using React.js and JavaScript.
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Manish8000pro)
-
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manish8000pro&theme=github-dark-blue" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Manish8000pro)
 </p>
 
 ## 📚 Currently Learning
