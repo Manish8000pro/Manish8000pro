@@ -1,8 +1,16 @@
-# Hi, I'm Manish Kumar Kumwat 👋
+<h1 align="center">Hi 👋, I'm Manish Kumar Kumawat</h1>
 
-## 🚀 Frontend Developer
+<h3 align="center">
+Frontend Developer • React Developer • MERN Stack Learner
+</h3>
 
-I build modern web applications using React.js and JavaScript.
+<p align="center">
+Passionate about building responsive web applications, solving real-world problems, and continuously learning modern web technologies.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;MERN+Stack+Learner;DSA+Enthusiast;Building+Real+World+Projects" />
+</p>
 
 ## <h3 align="center">🌐 <u>Connect with me</h3></u>
 
@@ -27,23 +35,85 @@ I build modern web applications using React.js and JavaScript.
   </a>
 </p>
 
+## 🚀 About Me
 
-## 💻 Languages & Tech Stack
+- 💻 Frontend Developer passionate about creating responsive web applications.
+- 🌱 Currently learning the MERN Stack.
+- 🧠 Solved **400+ DSA problems** in C++.
+- 🤖 Exploring Generative AI and Deep Learning fundamentals.
+- 🚀 Open to Frontend Developer and Software Engineer opportunities.
 
-### Languages
-![C++](https://skillicons.dev/icons?i=cpp)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Java](https://skillicons.dev/icons?i=java)
 
-### Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
+## 💻 Languages & Tools
 
-<img src="https://img.shields.io/badge/🤖_Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000&borderRadius=20" />
+<p align="center">
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manish8000pro&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish8000pro&layout=compact&theme=tokyonight"/>
+
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Manish8000pro&theme=github-dark-blue"/>
+
+</p>
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Manish8000pro&theme=tokyo-night)
+
+## 🚀 Featured Projects
+
+⭐ Spotify Music Player
+
+⭐ Personal Portfolio
+
+⭐ Movie Recommendation System
+
+⭐ AI Code Reviewer
+
+⭐ E-Commerce UI
+
+⭐ Income Tax Calculator
+
+## 🏆 Achievements
+
+🏅 Solved 400+ DSA Problems
+
+🏅 Built 10+ Frontend Projects
+
+🏅 Strong foundation in HTML, CSS, JavaScript & React
+
+🏅 Learning MERN Stack Development
+
+## 📚 Currently Learning
+
+- Node.js
+
+- Express.js
+
+- MongoDB
+
+- MERN Stack
+
+- System Design Basics
+
+
+## 💬 Quote
+
+> "Consistency beats intensity. Build every day, improve every day."
 
 ### Tools
 ![Git](https://skillicons.dev/icons?i=git)
