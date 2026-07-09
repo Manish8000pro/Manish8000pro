@@ -115,33 +115,5 @@ Passionate about building responsive web applications, solving real-world proble
 
 > "Consistency beats intensity. Build every day, improve every day."
 
-### Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Manish8000pro)
-
-
-## 📚 Currently Learning
-
-- DSA in C++
-- Java
-- Backend Development
-- Node.js
-- System Design
-
-
-## 🚀 Featured Projects
-
-### 🎵 Spotify Clone
-Music player built with JavaScript.
-
-### Modern Course landing pages and Modern pages
-Modern UI projects using HTML, CSS, JavaScript.
-
-### 🤖 AI Projects
-AI experiments and learning projects.
 
